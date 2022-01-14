@@ -1,0 +1,37 @@
+{
+  "files": {
+    "main.css": "/static/css/main.aa8a47f8.chunk.css",
+    "main.js": "/static/js/main.1bb4940b.chunk.js",
+    "main.js.map": "/static/js/main.1bb4940b.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.48747745.js",
+    "runtime-main.js.map": "/static/js/runtime-main.48747745.js.map",
+    "static/css/2.5ed44b52.chunk.css": "/static/css/2.5ed44b52.chunk.css",
+    "static/js/2.6e52588c.chunk.js": "/static/js/2.6e52588c.chunk.js",
+    "static/js/2.6e52588c.chunk.js.map": "/static/js/2.6e52588c.chunk.js.map",
+    "static/js/3.2bccf401.chunk.js": "/static/js/3.2bccf401.chunk.js",
+    "static/js/3.2bccf401.chunk.js.map": "/static/js/3.2bccf401.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.5ed44b52.chunk.css.map": "/static/css/2.5ed44b52.chunk.css.map",
+    "static/css/main.aa8a47f8.chunk.css.map": "/static/css/main.aa8a47f8.chunk.css.map",
+    "static/js/2.6e52588c.chunk.js.LICENSE.txt": "/static/js/2.6e52588c.chunk.js.LICENSE.txt",
+    "static/media/Preloader.15c7c73e.gif": "/static/media/Preloader.15c7c73e.gif",
+    "static/media/amitapuri.fa500d3d.jpeg": "/static/media/amitapuri.fa500d3d.jpeg",
+    "static/media/AppointmentBanner.css": "/static/media/ap-banner-bg.68081259.png",
+    "static/media/ap-banner.4f5cf34d.png": "/static/media/ap-banner.4f5cf34d.png",
+    "static/media/Appointment.css": "/static/media/banner-bg.33b42bf9.png",
+    "static/media/banner-img.3965511e.jpg": "/static/media/banner-img.3965511e.jpg",
+    "static/media/Login.css": "/static/media/biography-bg.a2c9a248.png",
+    "static/media/featured.5af9ac62.png": "/static/media/featured.5af9ac62.png",
+    "static/media/Footer.css": "/static/media/footer-bg.f9bdf3e5.png",
+    "static/media/iiitd_logo.d076255c.png": "/static/media/iiitd_logo.d076255c.png",
+    "static/media/khuspinder.0784db81.jpeg": "/static/media/khuspinder.0784db81.jpeg",
+    "static/media/login.65502a55.png": "/static/media/login.65502a55.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.48747745.js",
+    "static/css/2.5ed44b52.chunk.css",
+    "static/js/2.6e52588c.chunk.js",
+    "static/css/main.aa8a47f8.chunk.css",
+    "static/js/main.1bb4940b.chunk.js"
+  ]
+}
